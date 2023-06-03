@@ -31,12 +31,13 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-
+![OUTPUT](/mechanics%20exp-10.1.png)
 ### Output:
+![OUTPUT](/mechanics%20exp-10.2.png)
 
 
-### Name:
-### Register Number:
+### Name: HARSHA VARDHAN
+### Register Number: 212222240114
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
